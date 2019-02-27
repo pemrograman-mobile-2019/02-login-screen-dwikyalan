@@ -89,7 +89,8 @@
                 android:layout_centerHorizontal="true"
                 android:layout_marginTop="90dp"
                 android:ems="10"
-                android:hint="Password" />
+                android:hint="Password"
+                android:inputType="textPassword"/>
 
             <Button
                 android:id="@+id/button3"
